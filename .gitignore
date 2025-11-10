@@ -1,0 +1,26 @@
+# SQLite база данных
+*.db
+*.sqlite
+*.sqlite3
+pdf_storage.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Старая папка uploads (больше не используется, но оставляем на случай)
+uploads/
+
